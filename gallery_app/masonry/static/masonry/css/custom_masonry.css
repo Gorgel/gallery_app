@@ -31,10 +31,10 @@ body { font-family: sans-serif;
 	margin: 2px;
 }
 
-.grid-item--width2 { width: 356px; }
-.grid-item--width2--height2 { width: 356px; height: 226px;}
-.grid-item--height2 { height: 226px; }
-.grid-item--height3 { height: 336px; }
+.grid-item--width2 { width: 352px; }
+.grid-item--width2--height2 { width: 352px; height: 220px;}
+.grid-item--height2 { height: 220px; }
+.grid-item--height3 { height: 330px; }
 
 
 
