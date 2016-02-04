@@ -3,7 +3,7 @@
 {% block content %}
 
 
-<div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 180 , "isFitWidth": "true" }'>
+<div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 200 , "isFitWidth": "true" }'>
 			{% for picture in pictures %}
 			<a href="{{ picture.picture.url }}"> 
 			<img class="{{ picture.masonry_class}}" src="{{ picture.thumbnail.url }}" title="{{ picture.description }}"/>
